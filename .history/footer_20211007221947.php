@@ -32,7 +32,7 @@
                 <li><a href="">Contact</a></li>
             </ul>
             <ul>
-                <li><img src="<?php echo(get_template_directory_uri()); ?> /images/white-logo.png" alt="logo"></li>
+                <li><img src="<?php echo(get_template_directory_uri()); ?> images/white-logo.png" alt="logo"></li>
                 <li>&copy; All rights reserved 2015</li>
 
             </ul>

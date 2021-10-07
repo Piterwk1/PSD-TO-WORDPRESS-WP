@@ -1144,8 +1144,6 @@ footer li {
 }
 
 footer a {
-    color: #eee;
+    color: #eee !important;
     text-decoration: none;
 }
-
-
