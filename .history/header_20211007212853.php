@@ -31,7 +31,7 @@
 		<div class="wrapper">
 			<h1 class="logo">Rest</h1>
 			<nav>
-				<!-- <h2>Main Navigation</h2> -->
+				<h2>Main Navigation</h2>
 			
 			<?php wp_nav_menu(array( 'theme_location' => 'menu-1',
 					'menu_id' => 'primary-menu',)); ?>
